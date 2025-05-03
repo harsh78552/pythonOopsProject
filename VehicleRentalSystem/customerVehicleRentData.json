@@ -1,0 +1,12 @@
+[
+    {
+        "customerName": "Harsh Tiwari",
+        "email": "harsh844509@gmail.com",
+        "phone_no": "7654092577",
+        "brand": "BMW",
+        "model": "X5",
+        "status": "completed",
+        "rentPerHourCost": 300,
+        "rent_time_start": 1746284769
+    }
+]
