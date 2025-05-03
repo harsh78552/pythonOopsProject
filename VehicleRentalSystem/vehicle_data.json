@@ -1,0 +1,222 @@
+[
+    {
+        "vehicle_id": 101,
+        "brand": "BMW",
+        "model": "X5",
+        "car_type": "SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 300,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 102,
+        "brand": "BMW",
+        "model": "3 Series",
+        "car_type": "sedan",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 250,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 103,
+        "brand": "BMW",
+        "model": "i8",
+        "car_type": "coupe",
+        "fuel_type": "hybrid",
+        "seating_capacity": 4,
+        "transmission": "automatic",
+        "rent_per_hour": 500,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 104,
+        "brand": "BMW",
+        "model": "7 Series",
+        "car_type": "luxury sedan",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 450,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 105,
+        "brand": "BMW",
+        "model": "X1",
+        "car_type": "compact SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 200,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 201,
+        "brand": "AUDI",
+        "model": "A4",
+        "car_type": "sedan",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 260,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 202,
+        "brand": "AUDI",
+        "model": "Q5",
+        "car_type": "SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 320,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 203,
+        "brand": "AUDI",
+        "model": "A6",
+        "car_type": "luxury sedan",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 400,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 204,
+        "brand": "AUDI",
+        "model": "Q3",
+        "car_type": "compact SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 240,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 205,
+        "brand": "AUDI",
+        "model": "R8",
+        "car_type": "sports car",
+        "fuel_type": "petrol",
+        "seating_capacity": 2,
+        "transmission": "automatic",
+        "rent_per_hour": 600,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 301,
+        "brand": "TATA",
+        "model": "Nexon",
+        "car_type": "SUV",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 180,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 302,
+        "brand": "TATA",
+        "model": "Harrier",
+        "car_type": "SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 220,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 303,
+        "brand": "TATA",
+        "model": "Altroz",
+        "car_type": "hatchback",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 160,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 304,
+        "brand": "TATA",
+        "model": "Safari",
+        "car_type": "SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 7,
+        "transmission": "automatic",
+        "rent_per_hour": 250,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 305,
+        "brand": "TATA",
+        "model": "Tiago",
+        "car_type": "hatchback",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 140,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 401,
+        "brand": "HONDA",
+        "model": "City",
+        "car_type": "sedan",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 220,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 402,
+        "brand": "HONDA",
+        "model": "Amaze",
+        "car_type": "sedan",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 180,
+        "status": "rented"
+    },
+    {
+        "vehicle_id": 403,
+        "brand": "HONDA",
+        "model": "Elevate",
+        "car_type": "SUV",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 200,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 404,
+        "brand": "HONDA",
+        "model": "WR-V",
+        "car_type": "compact SUV",
+        "fuel_type": "diesel",
+        "seating_capacity": 5,
+        "transmission": "manual",
+        "rent_per_hour": 190,
+        "status": "available"
+    },
+    {
+        "vehicle_id": 405,
+        "brand": "HONDA",
+        "model": "Jazz",
+        "car_type": "hatchback",
+        "fuel_type": "petrol",
+        "seating_capacity": 5,
+        "transmission": "automatic",
+        "rent_per_hour": 160,
+        "status": "rented"
+    }
+]
